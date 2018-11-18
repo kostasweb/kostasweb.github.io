@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EA;
-	background-color: #5D037E;
+	color: #0000E2;
+	background-color: #253D1E;
 }
 
 .html
@@ -17,7 +17,7 @@
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
-	background-color: transparent;
+	background-color: #8AF8FF;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 62px 1656px 840px 84px;
