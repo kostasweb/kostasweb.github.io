@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="photoabout.ml,kostasweb.github.io" resolutions="1x" timestamp="1542563744065">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="photoabout.ml" resolutions="1x" timestamp="1542564060101">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="index.css" crc="3931964286" ref="index"/>
