@@ -1,0 +1,60 @@
+.version.images /* version checker */
+{
+	color: #00000C;
+	background-color: #65659C;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 181px;
+	min-height: 96px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 922px 20px 62px 1719px;
+}
+
+#u235-4
+{
+	z-index: 3;
+	width: 151px;
+	min-height: 50px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u227
+{
+	z-index: 2;
+	width: 150px;
+	min-height: 30px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 31px;
+	margin-top: 15px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 1920px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
