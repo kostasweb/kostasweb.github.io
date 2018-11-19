@@ -1,9 +1,13 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="photoabout.cf" resolutions="1x" timestamp="1542648098205">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="photoabout.cf" resolutions="1x" timestamp="1542648992233">
   <folder name="images">
     <file name="u855-21.png" crc="4250824053" ref="about"/>
     <file name="u855-21-r.png" crc="3848569462" ref="about"/>
     <file name="u855-21-m.png" crc="130191501" ref="about"/>
     <file name="u855-21-fs.png" crc="341446399" ref="about"/>
+    <file name="abstract-design-wallpaper-42-1280x720 ( rework ).jpg" crc="366611179" seo="true" ref="photoshoped"/>
+    <file name="nature (rework).jpg" crc="4099846098" seo="true" ref="photoshoped"/>
+    <file name="phone birds.jpg" crc="104493123" seo="true" ref="photoshoped"/>
+    <file name="smartphone.jpg" crc="87526670" seo="true" ref="photoshoped"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
@@ -11,7 +15,7 @@
     <file name="tools.css" crc="497871139" ref="tools"/>
     <file name="originals.css" crc="3935443924" ref="originals"/>
     <file name="images.css" crc="421501335" ref="images"/>
-    <file name="photoshoped.css" crc="400531126" ref="photoshoped"/>
+    <file name="photoshoped.css" crc="3911988961" ref="photoshoped"/>
     <file name="about.css" crc="4293250055" ref="about"/>
   </folder>
   <folder name="scripts">
@@ -31,5 +35,5 @@
   <file name="images.html" crc="4231573036" seo="true" mt="1542646473650" redirect="true"/>
   <file name="tools.html" crc="77719070" seo="true" mt="1542646486681" redirect="true"/>
   <file name="originals.html" crc="437374069" seo="true" mt="1542647042969" redirect="true"/>
-  <file name="photoshoped.html" crc="230754326" seo="true" mt="1542647054618" redirect="true"/>
+  <file name="photoshoped.html" crc="168470933" seo="true" mt="1542648982487" redirect="true"/>
 </manifest>
