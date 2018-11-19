@@ -2,38 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://photoabout.cf/index.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://photoabout.cf/phone/index.html"/>
   </url>
   <url>
     <loc>http://photoabout.cf/about.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://photoabout.cf/images.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://photoabout.cf/tools.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://photoabout.cf/originals.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://photoabout.cf/photoshoped.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

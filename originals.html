@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "originals.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musemenu.js", "jquery.watch.js", "originals.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -11,7 +11,7 @@
   <title>Originals</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4052507572"/>
-  <link rel="stylesheet" type="text/css" href="css/originals.css?4071756666" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/originals.css?3935443924" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -24,6 +24,25 @@
  <body>
 
   <div class="clearfix" id="page"><!-- column -->
+   <nav class="MenuBar clearfix colelem" id="menuu476"><!-- horizontal box -->
+    <div class="MenuItemContainer clearfix grpelem" id="u512"><!-- vertical box -->
+     <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u513" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u515-4"><!-- content --><p>Home</p></div></a>
+    </div>
+    <div class="MenuItemContainer clearfix grpelem" id="u484"><!-- vertical box -->
+     <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u501" href="images.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u502-4"><!-- content --><p>Images</p></div></a>
+     <div class="SubMenu  MenuLevel1 clearfix" id="u485"><!-- vertical box -->
+      <ul class="SubMenuView clearfix colelem" id="u486"><!-- vertical box -->
+       <li class="MenuItemContainer clearfix colelem" id="u487"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix grpelem" id="u488" href="originals.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u490-4"><!-- content --><p>Originals</p></div></a><div class="SubMenu  MenuLevel2 clearfix" id="u492"><!-- vertical box --><ul class="SubMenuView clearfix colelem" id="u493"><!-- vertical box --><li class="MenuItemContainer clearfix colelem" id="u494"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u495" href="photoshoped.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u498-4"><!-- content --><p>Photoshoped</p></div></a></li></ul></div></li>
+      </ul>
+     </div>
+    </div>
+    <div class="MenuItemContainer clearfix grpelem" id="u477"><!-- vertical box -->
+     <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u478" href="tools.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u480-4"><!-- content --><p>Tools</p></div></a>
+    </div>
+    <div class="MenuItemContainer clearfix grpelem" id="u505"><!-- vertical box -->
+     <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u508" href="about.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u510-4"><!-- content --><p>About</p></div></a>
+    </div>
+   </nav>
    <div class="clearfix colelem" id="u248-4"><!-- content -->
     <p>If you want to support me please donate any amount you want</p>
    </div>
@@ -52,6 +71,7 @@
    window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
 </script>
   <script src="scripts/museutils.js?183364071" type="text/javascript"></script>
+  <script src="scripts/jquery.musemenu.js?3957776250" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?71412426" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -61,6 +81,7 @@ for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.re
 typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

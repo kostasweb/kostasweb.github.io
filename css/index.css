@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E2;
-	background-color: #4814C3;
+	color: #0000E7;
+	background-color: #A5B030;
 }
 
 .html
@@ -160,6 +160,120 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#u198
+{
+	width: 120px;
+	background-color: transparent;
+	top: 52px;
+}
+
+#u334
+{
+	width: 118px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #777777;
+	background-color: #FFFFFF;
+	padding-bottom: 4px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u336-4
+{
+	width: 110px;
+	min-height: 13px;
+	background-color: transparent;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	font-size: 11px;
+	text-align: center;
+	line-height: 13px;
+	position: relative;
+	margin-right: -10000px;
+	top: 2px;
+	left: 2px;
+}
+
+#u334:hover #u336-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u338
+{
+	width: 120px;
+	background-color: transparent;
+	left: 120px;
+}
+
+#u199,#u333,#u339,#u340
+{
+	width: 120px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u341
+{
+	width: 118px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #777777;
+	background-color: #FFFFFF;
+	padding-bottom: 4px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u334:hover,#u341:hover
+{
+	background-color: #AAAAAA;
+	width: 118px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u343-4
+{
+	width: 110px;
+	min-height: 13px;
+	background-color: transparent;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	font-size: 11px;
+	text-align: center;
+	line-height: 13px;
+	position: relative;
+	margin-right: -10000px;
+	top: 2px;
+	left: 2px;
+}
+
+#u334.MuseMenuActive #u336-4,#u341:hover #u343-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u341.MuseMenuActive #u343-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u206
 {
 	width: 469px;
@@ -302,7 +416,7 @@
 
 #u239-4
 {
-	z-index: 28;
+	z-index: 44;
 	width: 151px;
 	min-height: 50px;
 	background-color: transparent;
@@ -313,7 +427,7 @@
 
 #u237
 {
-	z-index: 27;
+	z-index: 43;
 	width: 150px;
 	min-height: 30px;
 	border-style: none;
