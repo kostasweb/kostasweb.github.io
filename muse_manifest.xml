@@ -1,23 +1,31 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="photoabout.cf" resolutions="1x" timestamp="1542723093059">
-  <folder name="images"/>
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="photoabout.cf" resolutions="1x" timestamp="1542728587292">
   <folder name="css">
-    <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="4002613288" ref="index"/>
-    <file name="tools.css" crc="4096537605" ref="tools"/>
-    <file name="images.css" crc="206557838" ref="images"/>
-    <file name="about.css" crc="3862808069" ref="about"/>
-    <file name="tutorials.css" crc="489340853" ref="tutorials"/>
+    <file name="site_global.css" crc="443350757"/>
+    <file name="tutorials.css" crc="498472692" ref="tutorials"/>
+    <file name="tools.css" crc="4244179928" ref="tools"/>
+    <file name="index.css" crc="362445284" ref="index"/>
+    <file name="images.css" crc="386488689" ref="images"/>
+    <file name="about.css" crc="4052011514" ref="about"/>
+    <file name="nomq_index.css" crc="3819842216" ref="index"/>
+    <file name="nomq_tutorials.css" crc="4294842393" ref="tutorials"/>
+    <file name="nomq_tools.css" crc="4256274064" ref="tools"/>
+    <file name="nomq_images.css" crc="3939807451" ref="images"/>
+    <file name="nomq_about.css" crc="300106617" ref="about"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about:images:tools:tutorials"/>
-    <file name="museutils.js" crc="183364071" ref="index:about:images:tools:tutorials"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index:about:images:tools:tutorials"/>
-    <file name="jquery.musemenu.js" crc="3957776250" ref="index:about:images:tools:tutorials"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:images:tools:tutorials"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:images:tools:about:tutorials"/>
+    <file name="museutils.js" crc="46400467" ref="index:images:tools:about:tutorials"/>
+    <file name="whatinput.js" crc="86476730" ref="index:images:tools:about:tutorials"/>
+    <file name="museconfig.js" crc="436936948" ref="index:images:tools:about:tutorials"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:images:tools:about:tutorials"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:images:tools:about:tutorials"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:images:tools:about:tutorials"/>
+    <file name="require.js" crc="85721165" ref="index:images:tools:about:tutorials"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="index:images:tools:about:tutorials"/>
   </folder>
-  <file name="index.html" crc="3822802207" seo="true" mt="1542723082726" redirect="true"/>
-  <file name="about.html" crc="109886031" seo="true" mt="1542716691747" redirect="true"/>
-  <file name="images.html" crc="4191293599" seo="true" mt="1542716691638" redirect="true"/>
-  <file name="tools.html" crc="3907776331" seo="true" mt="1542716691716" redirect="true"/>
-  <file name="tutorials.html" crc="348144682" seo="true" mt="1542719723160" redirect="true"/>
+  <file name="index.html" crc="276887952" seo="true" mt="1542728554614" redirect="true"/>
+  <file name="images.html" crc="15910410" seo="true" mt="1542728191150" redirect="true"/>
+  <file name="tools.html" crc="154013375" seo="true" mt="1542728234347" redirect="true"/>
+  <file name="about.html" crc="4129325674" seo="true" mt="1542728289405" redirect="true"/>
+  <file name="tutorials.html" crc="38302327" seo="true" mt="1542728359019" redirect="true"/>
 </manifest>
