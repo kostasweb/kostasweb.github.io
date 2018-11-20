@@ -1,39 +1,23 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="photoabout.cf" resolutions="1x" timestamp="1542648992233">
-  <folder name="images">
-    <file name="u855-21.png" crc="4250824053" ref="about"/>
-    <file name="u855-21-r.png" crc="3848569462" ref="about"/>
-    <file name="u855-21-m.png" crc="130191501" ref="about"/>
-    <file name="u855-21-fs.png" crc="341446399" ref="about"/>
-    <file name="abstract-design-wallpaper-42-1280x720 ( rework ).jpg" crc="366611179" seo="true" ref="photoshoped"/>
-    <file name="nature (rework).jpg" crc="4099846098" seo="true" ref="photoshoped"/>
-    <file name="phone birds.jpg" crc="104493123" seo="true" ref="photoshoped"/>
-    <file name="smartphone.jpg" crc="87526670" seo="true" ref="photoshoped"/>
-  </folder>
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="photoabout.cf" resolutions="1x" timestamp="1542716709616">
+  <folder name="images"/>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="3886395440" ref="index"/>
-    <file name="tools.css" crc="497871139" ref="tools"/>
-    <file name="originals.css" crc="3935443924" ref="originals"/>
-    <file name="images.css" crc="421501335" ref="images"/>
-    <file name="photoshoped.css" crc="3911988961" ref="photoshoped"/>
-    <file name="about.css" crc="4293250055" ref="about"/>
+    <file name="index.css" crc="28450098" ref="index"/>
+    <file name="tools.css" crc="4096537605" ref="tools"/>
+    <file name="images.css" crc="206557838" ref="images"/>
+    <file name="about.css" crc="3862808069" ref="about"/>
+    <file name="tutorials.css" crc="3803420874" ref="tutorials"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about:images:tools:originals:photoshoped"/>
-    <file name="museutils.js" crc="183364071" ref="index:about:images:tools:originals:photoshoped"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index:about:images:tools:originals:photoshoped"/>
-    <file name="jquery.musemenu.js" crc="3957776250" ref="index:about:images:tools:originals:photoshoped"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:images:tools:originals:photoshoped"/>
-    <file name="webpro.js" crc="3803554875" ref="about"/>
-    <file name="form_check.php" crc="277267350" ref="about"/>
-    <file name="form_throttle.php" crc="3908387251" ref="about"/>
-    <file name="form_process.php" crc="24249335" ref="about"/>
-    <file name="form-u850.php" crc="4248831361" ref="about"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about:images:tools:tutorials"/>
+    <file name="museutils.js" crc="183364071" ref="index:about:images:tools:tutorials"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:about:images:tools:tutorials"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:about:images:tools:tutorials"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:images:tools:tutorials"/>
   </folder>
-  <file name="index.html" crc="290658275" seo="true" mt="1542646451330" redirect="true"/>
-  <file name="about.html" crc="3961543597" seo="true" mt="1542648053334" redirect="true"/>
-  <file name="images.html" crc="4231573036" seo="true" mt="1542646473650" redirect="true"/>
-  <file name="tools.html" crc="77719070" seo="true" mt="1542646486681" redirect="true"/>
-  <file name="originals.html" crc="437374069" seo="true" mt="1542647042969" redirect="true"/>
-  <file name="photoshoped.html" crc="168470933" seo="true" mt="1542648982487" redirect="true"/>
+  <file name="index.html" crc="3822802207" seo="true" mt="1542716691794" redirect="true"/>
+  <file name="about.html" crc="109886031" seo="true" mt="1542716691747" redirect="true"/>
+  <file name="images.html" crc="4191293599" seo="true" mt="1542716691638" redirect="true"/>
+  <file name="tools.html" crc="3907776331" seo="true" mt="1542716691716" redirect="true"/>
+  <file name="tutorials.html" crc="4284987839" seo="true" mt="1542716691825" redirect="true"/>
 </manifest>
