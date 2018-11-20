@@ -1,7 +1,7 @@
 .version.tutorials /* version checker */
 {
-	color: #0000E2;
-	background-color: #B398CA;
+	color: #00001D;
+	background-color: #2ABFB5;
 }
 
 .html
@@ -367,6 +367,24 @@
 	cursor: pointer;
 }
 
+#u1111-4
+{
+	z-index: 38;
+	width: 624px;
+	min-height: 2px;
+	background-color: transparent;
+	font-size: 31px;
+	line-height: 37px;
+	margin-left: 628px;
+	margin-top: 67px;
+	position: relative;
+}
+
+#u1111
+{
+	font-size: 31px;
+}
+
 #u1061-4
 {
 	z-index: 34;
@@ -374,7 +392,7 @@
 	min-height: 50px;
 	background-color: transparent;
 	margin-left: 1699px;
-	margin-top: 808px;
+	margin-top: 704px;
 	position: relative;
 }
 

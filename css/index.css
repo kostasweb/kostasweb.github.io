@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000001;
-	background-color: #B21D32;
+	color: #0000EE;
+	background-color: #930828;
 }
 
 .html
@@ -363,12 +363,12 @@
 {
 	z-index: 7;
 	width: 1617px;
-	min-height: 13px;
+	min-height: 66px;
 	background-color: transparent;
 	font-size: 95px;
 	line-height: 114px;
 	margin-left: 132px;
-	margin-top: 96px;
+	margin-top: 95px;
 	position: relative;
 }
 
@@ -381,6 +381,7 @@
 	font-size: 28px;
 	line-height: 34px;
 	margin-left: 1517px;
+	margin-top: 1px;
 	position: relative;
 }
 
@@ -443,7 +444,6 @@ body
 {
 	position: relative;
 	min-width: 1920px;
-	padding-top: 36px;
 	padding-bottom: 36px;
 }
 

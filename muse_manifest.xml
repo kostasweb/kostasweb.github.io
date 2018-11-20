@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="photoabout.cf" resolutions="1x" timestamp="1542716709616">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="photoabout.cf" resolutions="1x" timestamp="1542723093059">
   <folder name="images"/>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="28450098" ref="index"/>
+    <file name="index.css" crc="4002613288" ref="index"/>
     <file name="tools.css" crc="4096537605" ref="tools"/>
     <file name="images.css" crc="206557838" ref="images"/>
     <file name="about.css" crc="3862808069" ref="about"/>
-    <file name="tutorials.css" crc="3803420874" ref="tutorials"/>
+    <file name="tutorials.css" crc="489340853" ref="tutorials"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about:images:tools:tutorials"/>
@@ -15,9 +15,9 @@
     <file name="jquery.musemenu.js" crc="3957776250" ref="index:about:images:tools:tutorials"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:images:tools:tutorials"/>
   </folder>
-  <file name="index.html" crc="3822802207" seo="true" mt="1542716691794" redirect="true"/>
+  <file name="index.html" crc="3822802207" seo="true" mt="1542723082726" redirect="true"/>
   <file name="about.html" crc="109886031" seo="true" mt="1542716691747" redirect="true"/>
   <file name="images.html" crc="4191293599" seo="true" mt="1542716691638" redirect="true"/>
   <file name="tools.html" crc="3907776331" seo="true" mt="1542716691716" redirect="true"/>
-  <file name="tutorials.html" crc="4284987839" seo="true" mt="1542716691825" redirect="true"/>
+  <file name="tutorials.html" crc="348144682" seo="true" mt="1542719723160" redirect="true"/>
 </manifest>
