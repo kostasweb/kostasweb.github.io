@@ -1,12 +1,9 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="photoabout.cf" resolutions="1x" timestamp="1542729435440">
-  <folder name="assets">
-    <file name="i-am-a-barbie-girl-song.mp3" crc="291846447" seo="true" mt="1542729321000"/>
-  </folder>
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="photoabout.cf" resolutions="1x" timestamp="1542729649376">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="tutorials.css" crc="498472692" ref="tutorials"/>
     <file name="tools.css" crc="4244179928" ref="tools"/>
-    <file name="index.css" crc="494705416" ref="index"/>
+    <file name="index.css" crc="362445284" ref="index"/>
     <file name="images.css" crc="386488689" ref="images"/>
     <file name="about.css" crc="4052011514" ref="about"/>
     <file name="nomq_index.css" crc="3819842216" ref="index"/>
@@ -26,7 +23,7 @@
     <file name="require.js" crc="85721165" ref="index:images:tools:about:tutorials"/>
     <file name="jquery.museresponsive.js" crc="52098982" ref="index:images:tools:about:tutorials"/>
   </folder>
-  <file name="index.html" crc="521954254" seo="true" mt="1542729419464" redirect="true"/>
+  <file name="index.html" crc="276887952" seo="true" mt="1542729642875" redirect="true"/>
   <file name="images.html" crc="15910410" seo="true" mt="1542728191150" redirect="true"/>
   <file name="tools.html" crc="154013375" seo="true" mt="1542728234347" redirect="true"/>
   <file name="about.html" crc="4129325674" seo="true" mt="1542728289405" redirect="true"/>
